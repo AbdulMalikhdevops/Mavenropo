@@ -1,0 +1,30 @@
+Linux and shell
+git and github
+docker
+kubernetes
+ansible
+terraform
+prometheus
+grafana
+crio
+rkt
+maven
+sonarqube
+bamboo
+circleci
+travisci
+
+ansible 
+chef
+puppet
+saltstack
+
+
+AWS
+GCP
+Azure
+DigitalOcean
+Kubernetes
+Openshift
+Mesos
+Docker Swarm
